@@ -1,4 +1,4 @@
-## Demo for ESM group
+## Demo from abhinav for ESM group
 options(digits = 10)
 
 SSC_list2 <- readRDS("SSC_list.rds")
